@@ -1,5 +1,6 @@
-import 'package:test/test.dart';
+
 import 'package:flutter_form_builder/flutter_form_builder.dart';
+import 'package:test/test.dart';
 
 void main() {
   test('FormBuilderValidators.required', () {
