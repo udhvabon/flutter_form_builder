@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_typeahead: ^1.7.0
+  flutter_typeahead_web:
+    git:
+      url : https://github.com/udhvabon/flutter_typeahead_web.git
+
   intl: ^0.15.8
   sy_flutter_widgets: ^0.1.4
   # flutter_chips_input: ^1.6.1

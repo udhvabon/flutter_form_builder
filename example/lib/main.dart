@@ -253,7 +253,7 @@ class MyHomePageState extends State<MyHomePage> {
                         labelText: "Country",
                       ),
                       attribute: 'country',
-                      onChanged: _onChanged,
+                      //onChanged: _onChanged,
                       itemBuilder: (context, country) {
                         return ListTile(
                           title: Text(country),
